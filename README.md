@@ -2,9 +2,7 @@
 
 ![Build Status](https://github.com/VonderTech/open-chatty/actions/workflows/frontend.yml/badge.svg)
 ![Dependabot Status](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)
-
-<!-- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d1390fe6bc114d58aa0f7300f18e803a)](https://app.codacy.com/gh/VonderTech/splatty-web/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) -->
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7869624c70bd4c38bf0d2bd9f5aab257)](https://app.codacy.com/gh/VonderTech/open-chatty/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 ![GitHub last commit](https://img.shields.io/github/last-commit/VonderTech/open-chatty)
 ![GitHub issues](https://img.shields.io/github/issues/VonderTech/open-chatty)
 [![License: MIT][license_badge]][license_link]
