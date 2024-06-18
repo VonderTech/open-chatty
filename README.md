@@ -17,6 +17,12 @@ Open Chatty is a simple Next.js application demonstrating how to use server-sent
 - Send button to trigger the API call
 - Cancel button to stop the API call
 
+## Demo
+
+Watch the demo video to see Open Chatty in action:
+
+[![Open Chatty Demo](https://img.youtube.com/vi/t5vMKZtA-ZY/0.jpg)](https://www.youtube.com/watch?v=t5vMKZtA-ZY)
+
 ## Getting Started
 
 1. **Clone the repository:**
@@ -72,6 +78,10 @@ Contributions are what make the open source community such an amazing place to l
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Attributions
+
+[Happy icons created by adriansyah - Flaticon](https://www.flaticon.com/free-icons/happy)
 
 ## Contact
 
