@@ -8,9 +8,11 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": {
+    "node": "18.19.1"
+  },
   "dependencies": {
     "@ai-sdk/openai": "^0.0.31",
-    "@microsoft/fetch-event-source": "^2.0.1",
     "ai": "^3.2.0",
     "next": "14.2.4",
     "react": "^18",
